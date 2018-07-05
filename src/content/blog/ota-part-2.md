@@ -30,7 +30,7 @@ This server has no built-in HTTP security. If it's exposed publicly, anyone can 
 
 ### Repo Server
 
-The Repo Server is part of the [OTA-TUF project](https://github.com/advancedtelematic/ota-tuf/) and handles TUF metadata files that describe the contents of the TreeHub. In terms of the Open Source Foundries Linux microPlatform, this means it's responsible for securely providing a list of known [good images](https://api.foundries.io/lmp/repo/release/api/v1/user_repo/targets.json). This service is stateless and can be scaled out horizontally to provide high availability.
+The Repo Server is part of the [OTA-TUF project](https://github.com/advancedtelematic/ota-tuf/) and handles TUF metadata files that describe the contents of the TreeHub. In terms of the Foundries.io Linux microPlatform, this means it's responsible for securely providing a list of known [good images](https://api.foundries.io/lmp/repo/release/api/v1/user_repo/targets.json). This service is stateless and can be scaled out horizontally to provide high availability.
 
 The security model is almost identical to TreeHub. In fact the garage-sign tool that interacts with the Repo Server uses the same credentials.zip used by garage-push. There is one [notable difference](https://github.com/advancedtelematic/ota-tuf/issues/162) in that garage-sign does not have support for HTTP Basic authentication.
 
@@ -59,7 +59,7 @@ OTA+ Web provides a web front-end to the OTA Community Edition components. The w
 
 The default configuration supports no authentication and is single-user only. However, there are a few [authentication options](https://github.com/advancedtelematic/ota-plus-server#authentication).
 
-***Replaceability SWAG***: *Easy/Medium* - It depends on how fancy the UI should be. Open Source Foundries implemented its own custom interface in less than a week that suited our specific needs.
+***Replaceability SWAG***: *Easy/Medium* - It depends on how fancy the UI should be. Foundries.io implemented its own custom interface in less than a week that suited our specific needs.
 
 ### Gateway
 

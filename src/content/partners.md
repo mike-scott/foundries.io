@@ -1,6 +1,6 @@
 +++
-title = "Open Source Foundries Partner Program"
-description = "Open Source Foundries Partners"
+title = "Foundries.io Partner Program"
+description = "Foundries.io Partners"
 keywords = ["Partners","together","collaboration","reference","hardware"]
 +++
 
@@ -51,7 +51,7 @@ __Service Companies__
 
 __Reference Hardware__
 
-* Open Source Foundries identifies and uses a small number of key hardware products for rigorous testing and verification of the microPlatforms
+* Foundries.io identifies and uses a small number of key hardware products for rigorous testing and verification of the microPlatforms
 * Selected hardware partners are selected for many reasons including:
   *  Product functionality (Connectivity/Radios, Sensors, Security hardware, AI engines etc.)
   *  Level of upstream support
@@ -61,7 +61,7 @@ __Reference Hardware__
   *  Global availability of your hardware to developers and product manufacturers
   *  A commitment to hosting CI facilities, or funding installation and support for your hardware into our production CI Labs
 
-# Why partner with Open Source Foundries
+# Why partner with Foundries.io
 
 * Partner with us on delivering an open source, secure, updatable platform for connected products with lifetime support & maintenance
 * Enable your product or service into the microPlatform offerings

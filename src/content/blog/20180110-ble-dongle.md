@@ -6,7 +6,7 @@ categories = ["Bluetooth", "Radio"]
 banner = "img/banners/ble-dongle.png"
 +++
 
-Open Source Foundries has released binaries and source code for a Zephyr-based Bluetooth Low Energy USB dongle to the public.
+Foundries.io has released binaries and source code for a Zephyr-based Bluetooth Low Energy USB dongle to the public.
 
 <!--more-->
 
@@ -14,7 +14,7 @@ If you've ever had to ship a product, you know how frustrating a critical bug ca
 
 With [Zephyr](https://www.zephyrproject.org/), we have taken a step forward where Bluetooth is concerned. We now have a completely open source, Apache 2.0 Licensed BLE solution from the host to the client, with vendors discussing nearly _ready for certification_ Bluetooth low energy radio stacks based on Zephyr.
 
-Open Source Foundries has integrated this code for use with the [RedBear BLE Nano 2 Kit](https://redbear.cc/product/ble-nano-kit-2.html), which we use internally as a standalone USB Bluetooth dongle. We welcome the community to try out the sources and binaries provided below!
+Foundries.io has integrated this code for use with the [RedBear BLE Nano 2 Kit](https://redbear.cc/product/ble-nano-kit-2.html), which we use internally as a standalone USB Bluetooth dongle. We welcome the community to try out the sources and binaries provided below!
 
 ## Hardware Requirements
 

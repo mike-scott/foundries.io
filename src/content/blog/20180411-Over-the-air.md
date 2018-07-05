@@ -162,7 +162,7 @@ If everything goes right, your device will auto-register to the ATS Garage syste
 This may take a few minutes.
 
 You can begin managing the system the moment you upload the next update.  At
-Open Source Foundries we produce OS updates about every 10 days, so one will be
+Foundries.io we produce OS updates about every 10 days, so one will be
 available soon.
 
 Once you upload a second image to ATS Garage, you can initiate an OS upgrade from

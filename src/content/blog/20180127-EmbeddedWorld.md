@@ -1,12 +1,12 @@
 +++
-title = "Open Source Foundries at Embedded World 2018"
+title = "Foundries.io at Embedded World 2018"
 date = "2018-01-27"
 tags = ["linux", "docker", "microPlatform"]
 categories = ["conferences","embedded","microPlatform"]
 banner = "img/banners/ew2018.png"
 +++
 
-Open Source Foundries is excited to have an opportunity to demonstrate
+Foundries.io is excited to have an opportunity to demonstrate
 our end to end IoT microPlatforms at this years Embedded World conference in
 Nuremburg, Germany.  The Embedded World conference takes place between
 February 27th-March 1st at the Embedded World conference Center.

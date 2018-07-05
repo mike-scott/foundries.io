@@ -1,12 +1,12 @@
-baseurl = "https://opensourcefoundries.com/"
-title = "Open Source Foundries, Ltd."
+baseurl = "https://foundries.io/"
+title = "Foundries.io"
 theme = "universal"
 publishDir = "../docs"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "osfoundries"
+disqusShortname = "foundriesio"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-111281311-1"
 
@@ -156,15 +156,15 @@ paginate = 10
     smart and edge devices. Our core products are Zephyr RTOS and Linux based microPlatforms,
     which provide product quality templates to build secure, OTA updatable, connected devices
     for industrial and consumer markets.</p>"""
-    copyright = "Copyright 2018 Open Source Foundries Ltd. All rights reserved."
+    copyright = "Copyright 2018 Foundries.io All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Open Source Foundries Ltd.</strong>
+    address = """<p><strong>Foundries.io</strong>
         <br>Cambridge, UK
-        <br><br><strong>Open Source Foundries Inc.</strong>
+        <br><br><strong>Foundries.io</strong>
         <br>Boulder CO, USA
       </p>
       """

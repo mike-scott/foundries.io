@@ -13,7 +13,7 @@ Everyone had thoughts on what they wanted from an OTA system. This was no surpri
 
 ### Self-Hosted and Open Source
 
-Open Source Foundries believes in providing open source software with no vendor lock-in. We also hope to help contribute to and grow a healthy community working on an OTA solution.
+Foundries.io believes in providing open source software with no vendor lock-in. We also hope to help contribute to and grow a healthy community working on an OTA solution.
 
 ### OSTree
 

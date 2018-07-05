@@ -1,4 +1,4 @@
-text: "A Linux distribution is a collection of open source software built on the Linux kernel. The Open Source Foundries Linux microPlatform is a minimal fimrware and distribution for connected devices, using Containers for product applications and services"
+text: "A Linux distribution is a collection of open source software built on the Linux kernel. The Foundries.io Linux microPlatform is a minimal fimrware and distribution for connected devices, using Containers for product applications and services"
 name: "Linux"
 position: "Latest Release"
 picture: "img/technologies/linux.png"

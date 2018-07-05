@@ -6,7 +6,7 @@ categories = ["conferences","iot","microPlatform"]
 banner = "img/banners/elc2018.png"
 +++
 
-Open Source Foundries presented 4 sessions at this year's IoT Summit and Embedded
+Foundries.io presented 4 sessions at this year's IoT Summit and Embedded
 Linux Conference and the slides are now available.
 
 <!--more-->

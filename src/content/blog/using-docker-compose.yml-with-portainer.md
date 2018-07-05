@@ -7,7 +7,7 @@ tags = ["portainer", "container", "docker", "docker-compose"]
 title = "Using docker-compose.yml with Portainer"
 
 +++
-Portainer has been a great asset and we have started to rely on it for single-container image management.  Unfortunately, Portainer has been designed for 2 key use-cases.  single containers and "stacks" that are meant to be deployed onto Kubernetes or Swarm orchestrators.  For many of our demos we want to manage a suite of containers and orchestrate their startup so we can manage large container suites like the 9+ container-based micro-services that comprise the Edge-X project.  For remote control we initially started with Ansible, and though it's great for a controlled container management system, it doesn't demo as well as Portainer does.  In this blog we'll describe about how we use Portainer and docker compose to deploy and coordinate multiple containers at Open Source foundries.
+Portainer has been a great asset and we have started to rely on it for single-container image management.  Unfortunately, Portainer has been designed for 2 key use-cases.  single containers and "stacks" that are meant to be deployed onto Kubernetes or Swarm orchestrators.  For many of our demos we want to manage a suite of containers and orchestrate their startup so we can manage large container suites like the 9+ container-based micro-services that comprise the Edge-X project.  For remote control we initially started with Ansible, and though it's great for a controlled container management system, it doesn't demo as well as Portainer does.  In this blog we'll describe about how we use Portainer and docker compose to deploy and coordinate multiple containers at Foundries.io.
 
 <!-- More -->
 

@@ -284,7 +284,7 @@ and cleanups.
 ##### dm-hawkbit-mqtt uses mgmt.foundries.io for hawkBit:
 - The dm-hawkbit-mqtt sample now uses mgmt.foundries.io as
 its hawkBit host. This is not a public host managed by
-Open Source Foundries; instead, it is an unused host
+Foundries.io; instead, it is an unused host
 that needs to be configured in the local network for the
 sample to work properly. This can be done via hosts
 configuration on a gateway device.

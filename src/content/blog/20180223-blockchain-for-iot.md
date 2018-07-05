@@ -16,7 +16,7 @@ Blockchain technologies are built off the idea of building consenus. Trust in th
 
 ## Storing Sensor Data on a Blockchain
 
-At Open Source Foundries we are creating the next generation of IoT platforms, and they need to be ready for blockchain. We've built a proof of concept based on our microPlatforms to consume sensor data from the connected devices and store it on a blockchain. The best part about this implementation is that the sensors do not need to know about the blockchain, as many times these devices have very constrained footprints. The gateway does the heavy lifting, brokering the data stream to the blockchain, making the entire integration seamless to the end devices. 
+At Foundries.io we are creating the next generation of IoT platforms, and they need to be ready for blockchain. We've built a proof of concept based on our microPlatforms to consume sensor data from the connected devices and store it on a blockchain. The best part about this implementation is that the sensors do not need to know about the blockchain, as many times these devices have very constrained footprints. The gateway does the heavy lifting, brokering the data stream to the blockchain, making the entire integration seamless to the end devices.
 
 ![IoT Blockchain Diagram](../../../../../img/blog/iota.png)
 
@@ -28,10 +28,10 @@ Note that the message/signature field contains the JSON sensor data value.
 
 ## Proof of Concept
 
-Pictured below is a Minnowboard Turbot running the Linux microPlatform, connected to two BLE Nano2 running the Zephyr microPlatform. Data is transfered from the sensors using 6lowpan over BLE to the gateway. To process and publish the data streams to the blockchain we've simply added two additional containers which run on the gateway. What does this mean? The microPlatforms required no code changes to integrate with blockchain, and that in itself is a testament to the flexibility of these platforms. 
+Pictured below is a Minnowboard Turbot running the Linux microPlatform, connected to two BLE Nano2 running the Zephyr microPlatform. Data is transfered from the sensors using 6lowpan over BLE to the gateway. To process and publish the data streams to the blockchain we've simply added two additional containers which run on the gateway. What does this mean? The microPlatforms required no code changes to integrate with blockchain, and that in itself is a testament to the flexibility of these platforms.
 
-![microPlatform PoC](../../../../../img/blog/poc-iota.jpg) 
+![microPlatform PoC](../../../../../img/blog/poc-iota.jpg)
 
 ## Next Steps
 
-The Open Source Foundries team will be leading the "Blockchain of Things" BoF at Embedded Linux Conference / OpenIoT Summit where we will discuss how blockchain based technology can be harnessed in the IoT space. We will have the opportunity to do a live demo of our proof of concept during the week. Please join us if you can, and help spread the word.
+The Foundries.io team will be leading the "Blockchain of Things" BoF at Embedded Linux Conference / OpenIoT Summit where we will discuss how blockchain based technology can be harnessed in the IoT space. We will have the opportunity to do a live demo of our proof of concept during the week. Please join us if you can, and help spread the word.
