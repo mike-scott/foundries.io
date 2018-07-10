@@ -107,19 +107,19 @@ paginate = 10
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "https://www.facebook.com/osfoundries"
+    url = "https://www.facebook.com/foundriesio"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 3
     name = "Twitter"
-    url = "https://twitter.com/osfoundries"
+    url = "https://twitter.com/foundriesio"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:support@opensourcefoundries.com"
+    url = "mailto:support@foundries.io"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 
@@ -149,8 +149,8 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "contact@opensourcefoundries.com"
-    career_email = "careers@opensourcefoundries.com"
+    email = "contact@foundries.io"
+    career_email = "careers@foundries.io"
     about_us = """<p>We provide best-in-class software platforms with lifetime support for
     building and maintaining connected products, ranging from the smallest sensors to
     smart and edge devices. Our core products are Zephyr RTOS and Linux based microPlatforms,
